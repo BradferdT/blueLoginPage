@@ -1,0 +1,45 @@
+
+.container-fluid{
+  height: 100vh;
+  width: 100vw;
+  padding: 0px;
+  margin: 0px;
+  background-image: url('background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+.form_background{
+  background-color: rgba(52, 152, 219,0.2);
+}
+
+.form_title{
+  font-family: 'Arvo', serif;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+
+.inputStyle{
+  text-align: center;
+  color: white;
+}
+
+
+#form_login{
+  margin: 20px 0px 10px 0px;
+}
+
+.col_form_height{
+  margin-top: 195px;
+}
+
+#register{
+  background-color: rgba(52, 152, 219,1.0);
+}
+
+#login{
+  background-color: rgba(46, 204, 113,1.0);
+}
